@@ -1,0 +1,46 @@
+/*
+ * NEVER remove or move from path: frontend/src/styles/tokens.css
+ */
+
+:root {
+  /* Colors - Core */
+  --color-bg: #FAFAF8;
+  --color-surface: #FFFFFF;
+  --color-fg: #1A1A1A;
+  --color-muted: #6B6B6B;
+
+  /* Colors - Accent */
+  --color-accent: #C9A961;
+  --color-accent-hover: #B8975A;
+  --color-focus-ring: #D4B87C;
+
+  /* Colors - Borders */
+  --color-border: #E8E6E1;
+  --color-border-hover: #D4D2CC;
+
+  /* Colors - Status */
+  --color-success: #059669;
+  --color-warning: #D97706;
+  --color-error: #DC2626;
+  --color-info: #2563EB;
+
+  /* Colors - Charts */
+  --color-chart-1: #C9A961;
+  --color-chart-2: #8B7355;
+  --color-chart-3: #2563EB;
+  --color-chart-4: #059669;
+  --color-chart-5: #7C3AED;
+
+  /* Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.06);
+  --shadow-md: 0 4px 8px -1px rgb(0 0 0 / 0.08), 0 2px 4px -2px rgb(0 0 0 / 0.04);
+
+  /* Motion */
+  --motion-fast: 200ms;
+  --motion-normal: 400ms;
+}
